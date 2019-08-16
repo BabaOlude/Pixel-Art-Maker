@@ -3,12 +3,12 @@ body {
 }
 
 h1 {
-  font-family: 'Press Start 2P', cursive;
+  font-family: Lobster;
+  font-size: 70px;
   margin: 0.2em;
 }
 
 h2 {
-  font-family: 'Futura', sans-serif;
   margin: 1em 0 0.25em;
 }
 
@@ -16,7 +16,9 @@ h2:first-of-type {
   margin-top: 0.5em;
 }
 
-table, tr, td {
+table,
+tr,
+td {
   border: 1px solid black;
 }
 
@@ -26,11 +28,11 @@ table {
 }
 
 tr {
-  height: 28px;
+  height: 19px;
 }
 
 td {
-  width: 28px;
+  width: 19px;
 }
 
 input[type=number] {
